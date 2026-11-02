@@ -1,4 +1,4 @@
-# Monserratts Portafolio
+# Creación de portafolio profesional con Vibecoding y la herramienta de IA Lovable
 
 Actúa como un diseñador UX/UI senior, desarrollador web y especialista en Personal Branding y reclutamiento profesional.
 Quiero que diseñes y desarrolles una página web de portafolio profesional para presentar mi perfil, experiencia, competencias, certificaciones y proyectos ante reclutadores, empresas y contactos de networking.
@@ -19,7 +19,7 @@ Utiliza tarjetas minimalistas, líneas geométricas, gráficos estadísticos abs
 Evita colores excesivamente saturados y elementos visuales sobrecargados.
 La página debe transmitir una personalidad profesional, analítica, organizada y accesible.
 
-4. FUNCIONALIDADES Y EXPERIENCIA DE USUARIO
+
 La página debe:
 
 - Ser completamente responsive para computadoras, tablets y dispositivos móviles.
@@ -33,7 +33,6 @@ La página debe:
 - Permitir agregar proyectos nuevos en el futuro.
 - Incluir un selector de idioma español/inglés si es posible, con traducciones profesionales.
 
-No inventes experiencia laboral, certificaciones, fotografías, enlaces de proyectos o resultados que no hayan sido proporcionados.
 
 5. RESULTADO ESPERADO
 Genera una página web profesional, visualmente atractiva y lista para utilizar como portafolio personal.
